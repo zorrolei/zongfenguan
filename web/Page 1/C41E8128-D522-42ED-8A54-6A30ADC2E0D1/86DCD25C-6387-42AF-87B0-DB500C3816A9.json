@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86DCD25C-6387-42AF-87B0-DB500C3816A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 270,
+    "width": 265,
+    "x": 1225,
+    "y": 672
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 5 Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD34C47A-D5B0-4F1D-B699-3B6F418DB016",
+      "overrideName": "996112A0-AE37-4C15-A8E3-8B5BFEB8432F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/09808debc37982ed03342db43d41cd64ce7c6ec7.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C01711F8-C168-4210-9913-C424CB6BBDF1",
+      "overrideName": "DB246B7B-1B6F-48EC-94FE-87EFC8534232_stringValue",
+      "value": "戏曲周周演"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "053D651E-3513-4F56-9CDA-9B0C809DDBE2",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7AF096B4-B19A-4FD4-A976-20C599838F7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 270,
+    "width": 265,
+    "x": 654,
+    "y": 972
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 5 Copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95A224FC-6B16-4201-88C3-A2B3CBF6023A",
+      "overrideName": "996112A0-AE37-4C15-A8E3-8B5BFEB8432F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b7b387f86e95d9cd68bfe25f8acc182067c1dcbc.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0F3C68A-0A29-430B-AF34-179CEFCC4329",
+      "overrideName": "DB246B7B-1B6F-48EC-94FE-87EFC8534232_stringValue",
+      "value": "《冬日·恋曲》—2019年迎新音乐会"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "053D651E-3513-4F56-9CDA-9B0C809DDBE2",
+  "verticalSpacing": 0
+}

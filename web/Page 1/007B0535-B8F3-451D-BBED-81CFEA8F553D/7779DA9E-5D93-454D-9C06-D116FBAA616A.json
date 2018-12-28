@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7779DA9E-5D93-454D-9C06-D116FBAA616A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 270,
+    "width": 265,
+    "x": 677,
+    "y": 956
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 5 Copy 11",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F0A066D-9527-4EC5-AB93-371576817857",
+      "overrideName": "828EAB8E-689F-48A7-ACC9-E473A5A6743A_stringValue",
+      "value": "“过过瘾头”戏曲演出"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A22C870-F1CE-4A37-86EC-9AB660F22853",
+      "overrideName": "76245793-B702-475D-A65E-BCF5390D11AE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04d0df272327d07babb7a9ceb94d6dd0a01e95f7.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7F048B99-C991-4AAA-89ED-67DD9574DD1B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "50067DD3-2E99-467D-B07A-13E7B3BD5B54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E8890D4-B8F3-478B-BF04-C409EBAA0566",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A57D34AD-245B-4011-80DC-1FB00F34C31B",
+    "height": 22,
+    "width": 77,
+    "x": 403,
+    "y": 684
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 10 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2D5BBDE2-823D-4D03-B2E7-D422BFA44FFA_stringValue",
+      "value": "专题报道"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52057A5A-B343-40CE-8747-9A4202B80FB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AD361C9C-A29A-4132-96A1-10B503FF2814",
+  "verticalSpacing": 0
+}

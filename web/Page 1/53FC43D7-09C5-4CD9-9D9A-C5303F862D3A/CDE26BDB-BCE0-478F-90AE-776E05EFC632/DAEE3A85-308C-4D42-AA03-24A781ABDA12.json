@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DAEE3A85-308C-4D42-AA03-24A781ABDA12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "851E59C6-2963-48D5-9554-3D00599A78C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A28F283-70C6-4C46-AEB9-20E67AD995EA",
+    "height": 20,
+    "width": 203,
+    "x": 21,
+    "y": 174
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list4 copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0970C25-87E8-4528-9E42-D84782A28415",
+      "overrideName": "E01D0BB7-97B7-4F47-9675-180D9A9FBBBB_stringValue",
+      "value": "4、宿州市文化馆组织收看庆..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C3AB00F-8C1C-423A-9FFB-1DE691F98AF7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8782D627-CBED-4EE6-92F8-376E1FBF83CF",
+  "verticalSpacing": 0
+}

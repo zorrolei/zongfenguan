@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3AA1F98C-0BE0-4264-A7B9-DE2040899A72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B783402-3EE7-4D1F-B50F-DAB66D2A6163",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "16D16AC3-E682-4CB1-9D2D-6B323950D661",
+    "height": 22,
+    "width": 77,
+    "x": 990,
+    "y": 301
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC802B6F-F664-4BBF-9BE7-6375F9A36437",
+      "overrideName": "2D5BBDE2-823D-4D03-B2E7-D422BFA44FFA_stringValue",
+      "value": "通知公告"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0067EA49-13B2-4AB1-A94D-B17E6EB69048",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AD361C9C-A29A-4132-96A1-10B503FF2814",
+  "verticalSpacing": 0
+}

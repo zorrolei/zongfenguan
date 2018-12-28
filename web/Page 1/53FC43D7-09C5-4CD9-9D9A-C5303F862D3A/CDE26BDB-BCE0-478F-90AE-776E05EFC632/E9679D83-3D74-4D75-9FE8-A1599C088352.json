@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E9679D83-3D74-4D75-9FE8-A1599C088352",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5898F3A-E090-47F7-9911-64252FF09C09",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "807C55FD-B8A4-4751-8C1B-C37FF1BA0E18",
+    "height": 20,
+    "width": 203,
+    "x": 21,
+    "y": 107
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list4 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51657A4E-02BC-40F8-84F4-6540FD0E9D4F",
+      "overrideName": "E01D0BB7-97B7-4F47-9675-180D9A9FBBBB_stringValue",
+      "value": "2、“你学作曲”“我买单”系列..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A36B726-86D5-469C-AAA1-405108698CDA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8782D627-CBED-4EE6-92F8-376E1FBF83CF",
+  "verticalSpacing": 0
+}
