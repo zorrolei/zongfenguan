@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F53F006-8D68-43E7-9C9A-E22FB4FAA03D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 181,
+    "width": 262,
+    "x": 683,
+    "y": 1645
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 11 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C37BE236-0A88-4E54-B7D1-4E776B7427C6",
+      "overrideName": "DAF2CD93-BD37-406B-A7CE-CB4FCBC594BB_stringValue",
+      "value": "果园场"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1350E5D5-3E6B-4D23-A039-EB2EF2138F49",
+      "overrideName": "FA64DB01-B471-4B2D-95D1-3F34B4751A7D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a9c1234b7bad6aa4a624828163ae92cffd526189.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8D2A0359-C144-431E-B2E1-E9AD006D32FC",
+  "verticalSpacing": 0
+}

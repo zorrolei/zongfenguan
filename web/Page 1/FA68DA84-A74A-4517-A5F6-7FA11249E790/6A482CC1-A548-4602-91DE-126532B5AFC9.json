@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A482CC1-A548-4602-91DE-126532B5AFC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 181,
+    "width": 262,
+    "x": 976,
+    "y": 1645
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 11 Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E98D110B-77D9-4243-AC8B-78149CFF8750",
+      "overrideName": "DAF2CD93-BD37-406B-A7CE-CB4FCBC594BB_stringValue",
+      "value": "周寨镇"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26C81C2F-9E9D-4E33-958B-638029772251",
+      "overrideName": "FA64DB01-B471-4B2D-95D1-3F34B4751A7D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bef1ce8d3db1ac9bbacc22ce51b110a7b3c4dbc7.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8D2A0359-C144-431E-B2E1-E9AD006D32FC",
+  "verticalSpacing": 0
+}

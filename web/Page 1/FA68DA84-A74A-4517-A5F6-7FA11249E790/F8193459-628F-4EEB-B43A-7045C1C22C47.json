@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8193459-628F-4EEB-B43A-7045C1C22C47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 91,
+    "width": 401,
+    "x": 1112,
+    "y": 376
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list1 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26E895A7-313C-40C0-A090-A236A30FC2B8",
+      "overrideName": "DBD27CE3-769F-4E32-8C55-3028AE0833AF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/45a1d887816b967b5d9ae0bfae2eff3cf2368daf.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "761452BE-AB6D-4020-89D6-5AD4D22D2ED4",
+      "overrideName": "BD010835-55B7-4C8E-AB13-7A2C039F99FA_stringValue",
+      "value": "坠子剧团坠子小戏《套路》荣获第十四届华东六省一市小戏小品大赛金奖"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F97106F3-9BE2-4865-9F26-FEE69D3A71E4",
+  "verticalSpacing": 0
+}

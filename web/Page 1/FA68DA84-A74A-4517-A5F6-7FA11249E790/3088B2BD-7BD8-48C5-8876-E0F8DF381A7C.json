@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3088B2BD-7BD8-48C5-8876-E0F8DF381A7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 208,
+    "x": 1326,
+    "y": 900
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card01 copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70B1B13B-FB94-47D7-BEBA-826973284CE7",
+      "overrideName": "9CF60F27-FC94-4BE7-99A1-D1D8294E21DF_stringValue",
+      "value": "戏曲周周演"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6F13A25-860B-4505-BE5F-4AAC6BAACAA4",
+      "overrideName": "F0023A37-670A-4550-85F3-73FB744B6A18_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9054aea6a433a66e59c683cb6e154a83841e6969.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8BD4373E-CA5B-487B-90A3-6B921F075F75",
+  "verticalSpacing": 0
+}

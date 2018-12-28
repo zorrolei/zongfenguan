@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4673A17-62B7-4B7F-B02C-0691DDCD8F2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D68A569-E5EE-4F6A-93D5-5C1183C83751",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67648E05-E4A7-46E3-9B6D-E7D969CC982B",
+    "height": 46,
+    "width": 96,
+    "x": 405,
+    "y": 1152
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D544BF46-9C7E-42E3-AC2F-301BED43D379"
+    },
+    {
+      "class": "text",
+      "id": "FAD1A191-FA6F-4211-B44F-B08057698E61"
+    }
+  ],
+  "name": "Group 8 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1A2E29E-7C46-467C-8E48-5C21D89B3203",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
