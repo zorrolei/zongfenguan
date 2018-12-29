@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3210,
+    "height": 2559,
     "width": 1920,
     "x": 10068,
     "y": -18
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -218,20 +218,12 @@
       "id": "B53FE81A-E50A-4EFD-BED7-FEE6C56FA38D"
     },
     {
-      "class": "bitmap",
-      "id": "E4423D06-2E5E-4BAC-98BF-4388039274DE"
+      "class": "symbolInstance",
+      "id": "6160050C-2A6D-42A6-ADC7-3AC774E2AACB"
     },
     {
-      "class": "oval",
-      "id": "032564BB-8E03-4CC9-BF0B-076FBC708905"
-    },
-    {
-      "class": "text",
-      "id": "A327D69C-230F-4AB2-8648-7251C4561EF6"
-    },
-    {
-      "class": "text",
-      "id": "E5EE40D0-5B28-46D7-9FEC-D42F8BE00600"
+      "class": "symbolInstance",
+      "id": "4F3AEC49-67F3-4D43-95F4-FC6A13EBFC4E"
     },
     {
       "class": "text",
@@ -243,27 +235,11 @@
     },
     {
       "class": "text",
-      "id": "798C7FD2-5241-46EE-8713-709E1C6417C8"
-    },
-    {
-      "class": "text",
-      "id": "7CD993A8-B15F-4345-9261-18582E625958"
-    },
-    {
-      "class": "rectangle",
-      "id": "17C19484-604C-441A-A524-607305BB5E65"
-    },
-    {
-      "class": "text",
       "id": "4FDC93F5-7FAD-4B0E-9B3D-A8CC19B5BD18"
     },
     {
       "class": "rectangle",
       "id": "C08D0D7C-19C5-455D-8BC4-B8DC20A811DD"
-    },
-    {
-      "class": "rectangle",
-      "id": "1FABE94F-090F-47E9-9518-81E649C26263"
     },
     {
       "class": "symbolInstance",

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F3AEC49-67F3-4D43-95F4-FC6A13EBFC4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 109,
+    "width": 727,
+    "x": 419,
+    "y": 1743
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "评论2 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EC40324-E310-40ED-A1C2-D8D232E70E3C",
+      "overrideName": "18B85179-8DD1-441A-A7D5-36515950BF68_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d610ab762a1bfec374eb91e8bc7ec6c64252f55c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AC9E8E9-D0C9-44C0-B302-962E44B8184F",
+      "overrideName": "12C59A19-E91A-42B8-A1C3-F0E75369BC5E_stringValue",
+      "value": "东临碣石，以观沧海。水何澹澹，山岛竦峙。树木丛生，百草丰茂。秋风萧瑟，洪波涌起。 日月之行，若出其中；星汉灿烂，若出其里。 幸甚至哉，歌以咏志。"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2D4BC6F-E492-42FC-AEFF-C41CBAC17E76",
+  "verticalSpacing": 0
+}

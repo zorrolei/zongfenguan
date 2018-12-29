@@ -58,7 +58,7 @@
         "location": 2
       }
     ],
-    "string": "评论（4）"
+    "string": "评论（2）"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "评论（4）",
+  "name": "评论（2）",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
