@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2E5C16D-40D4-4632-8EE5-EBB39DE06D9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C81D7A71-3BCF-451C-B589-C8339130BA3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15FDCCBD-C618-4113-B58C-882673FB2C8D",
+    "height": 50,
+    "width": 251,
+    "x": 364,
+    "y": 481
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB8C7F70-3407-4984-B2CC-937C5F8DFB21",
+      "overrideName": "31CE97D9-930E-4243-892C-0E9082FFBA70_stringValue",
+      "value": "公共文化"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5920C97-5C97-48DF-AAE2-92C3EAE51E80",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B27005A0-BF10-434C-9EA9-7466A81170A1",
+  "verticalSpacing": 0
+}

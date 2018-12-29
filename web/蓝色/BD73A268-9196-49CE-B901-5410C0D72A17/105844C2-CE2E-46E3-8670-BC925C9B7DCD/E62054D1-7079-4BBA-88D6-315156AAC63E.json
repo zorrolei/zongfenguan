@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E62054D1-7079-4BBA-88D6-315156AAC63E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77873CBB-1069-4C87-9656-4BED5052A8D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6A678F1-AC2A-4B54-8EA8-54742F83CC4C",
+    "height": 17,
+    "width": 58,
+    "x": 122,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 12",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E72965FD-2367-4533-9CEE-2F5D77AA5529_stringValue",
+      "value": "文化活动"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97A0A535-1CDF-4180-9D45-046ADA1ED188",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1D8F6F25-6774-4B7D-BBDA-748FC511D66D",
+  "verticalSpacing": 0
+}

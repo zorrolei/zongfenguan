@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B010B574-A4F5-4994-B406-12196A82EF7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFA7FA38-4DD2-4D49-9E01-D6D286DD3C14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92A87E61-83B7-4894-96C7-A582B4D22EA0",
+    "height": 50,
+    "width": 251,
+    "x": 364,
+    "y": 531
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65F49A84-A4FC-4AD5-B5DA-EA976D402243",
+      "overrideName": "31CE97D9-930E-4243-892C-0E9082FFBA70_stringValue",
+      "value": "文化产业"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B96A0437-1245-46C9-A4BC-5D31C300E19E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B27005A0-BF10-434C-9EA9-7466A81170A1",
+  "verticalSpacing": 0
+}

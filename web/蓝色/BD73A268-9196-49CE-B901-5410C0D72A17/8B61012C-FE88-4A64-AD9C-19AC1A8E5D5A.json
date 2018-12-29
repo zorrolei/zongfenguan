@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8B61012C-FE88-4A64-AD9C-19AC1A8E5D5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D71F6FBA-BA0C-47AB-B170-C7D6260ADFAA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81B12041-D231-473B-BED4-A4A4FA577B6A",
+    "height": 22,
+    "width": 516,
+    "x": 1000,
+    "y": 891
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 4 Copy 14",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "53D5FCF1-F6A6-4C38-A8EA-422B8BA5213E_stringValue",
+      "value": "“中华诗词之乡”动员大会"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C70B5BD-5B1A-4AC9-A5E4-021957A7E0D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7AAB0511-A793-4098-AC74-8A7FCE00060C",
+  "verticalSpacing": 0
+}

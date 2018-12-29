@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1856A249-ABEE-41E2-AF4A-45CA011DEAF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D428E0A6-57F0-4320-957E-89B3BFFAC65B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78B27FF9-6811-4B15-9F4C-BA4B87BCF64C",
+    "height": 22,
+    "width": 77,
+    "x": 998,
+    "y": 684
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 10 Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2D5BBDE2-823D-4D03-B2E7-D422BFA44FFA_stringValue",
+      "value": "时政要闻"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D9AED70-B2EF-46D4-A98A-D22F51EF03A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AD361C9C-A29A-4132-96A1-10B503FF2814",
+  "verticalSpacing": 0
+}

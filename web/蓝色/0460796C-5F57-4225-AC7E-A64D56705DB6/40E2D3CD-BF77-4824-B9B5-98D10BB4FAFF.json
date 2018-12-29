@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "40E2D3CD-BF77-4824-B9B5-98D10BB4FAFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "771F403D-9C00-4289-95B5-DBC7DE6B130C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1261EC6E-8B78-4E4C-BA19-03E5FC45FDF1",
+    "height": 270,
+    "width": 265,
+    "x": 955,
+    "y": 375
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 5 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A21F7AB2-BE2C-4FE3-9433-C616B3F72425",
+      "overrideName": "828EAB8E-689F-48A7-ACC9-E473A5A6743A_stringValue",
+      "value": "新成路街道戏曲月月演"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "319AC00C-78EE-42EC-9512-1A437A6AABFF",
+      "overrideName": "76245793-B702-475D-A65E-BCF5390D11AE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1f244065b15f41c9584554e9e0d284ba987ffa1e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3274BE3F-A36A-46A6-A6B8-32B179A47213",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7F048B99-C991-4AAA-89ED-67DD9574DD1B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A8DCF1A-FCA4-406A-93A1-8122C23A2827",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55F169A4-F772-4928-B599-DE9CA9CF6731",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8194A244-B388-435C-B991-E0228DEDEC80",
+    "height": 20,
+    "width": 203,
+    "x": 21,
+    "y": 141
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list4 copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C72D7A4-2BF8-4233-8E8C-B9C77409081F",
+      "overrideName": "E01D0BB7-97B7-4F47-9675-180D9A9FBBBB_stringValue",
+      "value": "3、2018年群文之星·群文系..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA46CC7C-2A86-486F-87DE-A6F434CDF52B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8782D627-CBED-4EE6-92F8-376E1FBF83CF",
+  "verticalSpacing": 0
+}

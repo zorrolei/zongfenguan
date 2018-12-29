@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "14535CFA-C00F-4E8F-8205-DFC46E60087B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FE3AFD2-4767-4B71-A719-24024ABCB197",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F3E5B44-FC19-47DF-9679-69FDE89608F3",
+    "height": 190,
+    "width": 420,
+    "x": 1110,
+    "y": 1150
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "78293505-3703-4ABA-88A3-C9B5032E4500"
+    },
+    {
+      "class": "bitmap",
+      "id": "F262179C-DB09-4011-9361-0A8BEBE5F16F"
+    }
+  ],
+  "name": "元旦晚会18",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDE9F79F-BA31-4864-BA15-5EEF9313712E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

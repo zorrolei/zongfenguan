@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E70EB366-D43D-420E-9076-0B10CA3566BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F777D5C-1CB8-49BA-8D31-DC3484F041D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "428C9CF9-C1EB-413F-803E-6BBED6AF6482",
+    "height": 22,
+    "width": 516,
+    "x": 997,
+    "y": 556
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 4 Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2B155CA-D069-4778-97F7-F23DC20AD275",
+      "overrideName": "53D5FCF1-F6A6-4C38-A8EA-422B8BA5213E_stringValue",
+      "value": "城区巡游出租汽车行业深化改革工作方案发布"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A77BBE1-5E8A-4C78-8854-1160D09E7425",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7AAB0511-A793-4098-AC74-8A7FCE00060C",
+  "verticalSpacing": 0
+}

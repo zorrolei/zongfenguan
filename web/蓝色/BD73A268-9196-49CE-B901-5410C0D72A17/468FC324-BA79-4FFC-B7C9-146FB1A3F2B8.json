@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "468FC324-BA79-4FFC-B7C9-146FB1A3F2B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8C21CD2-1D30-4A26-9169-3AAEE8B21236",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C19F7FC-BDE8-4941-9918-D38673D9041E",
+    "height": 22,
+    "width": 516,
+    "x": 405,
+    "y": 1028
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 4 Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A65D4F6-72C3-4107-AD8E-E72E812F231F",
+      "overrideName": "53D5FCF1-F6A6-4C38-A8EA-422B8BA5213E_stringValue",
+      "value": "关爱留守儿童 文化助力精准扶贫"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "510DC620-7D93-49B6-8A74-12B2AF0E66DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7AAB0511-A793-4098-AC74-8A7FCE00060C",
+  "verticalSpacing": 0
+}

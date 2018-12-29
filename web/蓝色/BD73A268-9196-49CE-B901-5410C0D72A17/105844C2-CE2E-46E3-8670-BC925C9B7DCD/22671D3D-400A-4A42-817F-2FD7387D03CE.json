@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "22671D3D-400A-4A42-817F-2FD7387D03CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8B08262-8251-454C-BAE5-53DF73B619CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A5A4D1B-EC89-4296-940D-A3C443AAA551",
+    "height": 17,
+    "width": 58,
+    "x": 122,
+    "y": 84
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 12",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E72965FD-2367-4533-9CEE-2F5D77AA5529_stringValue",
+      "value": "志愿服务"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90034727-23F4-44C9-A345-9F434A1B27A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1D8F6F25-6774-4B7D-BBDA-748FC511D66D",
+  "verticalSpacing": 0
+}

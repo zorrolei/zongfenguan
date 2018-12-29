@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D3A23A7-D4F3-4450-BC94-DD484B19AC55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "514463CA-6274-48FF-A8AD-742B19EE6558",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87346BAE-5CC1-46DC-958C-DEE1B6638FD6",
+    "height": 270,
+    "width": 265,
+    "x": 1233,
+    "y": 375
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 5 Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6534734-848E-473F-9340-70422FDB5262",
+      "overrideName": "828EAB8E-689F-48A7-ACC9-E473A5A6743A_stringValue",
+      "value": "《花园里的故事》戏曲专场"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26E65F06-2579-4F0D-ACC5-0FA3FDDA5879",
+      "overrideName": "76245793-B702-475D-A65E-BCF5390D11AE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/777065e3910a7cddcf647cf8d219884ec5c9541f.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "012AC393-4395-4829-A3B0-614EF8532D15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7F048B99-C991-4AAA-89ED-67DD9574DD1B",
+  "verticalSpacing": 0
+}

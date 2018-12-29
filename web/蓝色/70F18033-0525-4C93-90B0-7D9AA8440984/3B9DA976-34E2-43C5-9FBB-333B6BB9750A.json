@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B9DA976-34E2-43C5-9FBB-333B6BB9750A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A3ECFDC-B163-41A6-B90C-612850555C22",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AAFC13C-C41C-4327-9CBA-4BCA7271C6E7",
+    "height": 20,
+    "width": 400,
+    "x": 1112,
+    "y": 1448
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list3 copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9984BE12-3482-4F39-976C-B9551B9CFF9B_stringValue",
+      "value": "梨园春节目视频"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48A22E33-3A21-4D20-94E6-2995B8AAE908",
+      "overrideName": "20E364F4-A254-4B69-94A5-0C6C53A3BCBD_stringValue",
+      "value": "文化视频 | "
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DBAEDC75-C34E-4121-9421-09298D670AE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1900169F-1987-40A2-AE14-3563F8323B01",
+  "verticalSpacing": 0
+}

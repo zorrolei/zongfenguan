@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B22A379E-9768-429F-883E-55297AC42417",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66CD8593-AA5B-4DC5-8438-14EF5F7BD5BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB3B50E2-DAFB-4572-82DD-1E74935E3AD8",
+    "height": 50,
+    "width": 251,
+    "x": 364,
+    "y": 581
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C976F8D4-CE93-4DB0-AEF6-8215E864F445",
+      "overrideName": "31CE97D9-930E-4243-892C-0E9082FFBA70_stringValue",
+      "value": "送戏下乡"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C19DDBA8-2F4B-4A70-B820-43EBBB7A99D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B27005A0-BF10-434C-9EA9-7466A81170A1",
+  "verticalSpacing": 0
+}

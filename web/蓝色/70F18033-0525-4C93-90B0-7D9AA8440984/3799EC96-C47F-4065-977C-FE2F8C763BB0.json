@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3799EC96-C47F-4065-977C-FE2F8C763BB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BEEAEC3-E695-4A9C-B2B4-6E4D709BA1DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55861DEB-EA2C-498B-8DD5-BA41EFF63F44",
+    "height": 20,
+    "width": 422,
+    "x": 1112,
+    "y": 1420
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list3 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9984BE12-3482-4F39-976C-B9551B9CFF9B_stringValue",
+      "value": "皖苏鲁豫四省周边地区“四平调”戏曲展演在我县精彩..."
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74FFD822-8FCE-4772-8B76-AD7E55E86959",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1900169F-1987-40A2-AE14-3563F8323B01",
+  "verticalSpacing": 0
+}

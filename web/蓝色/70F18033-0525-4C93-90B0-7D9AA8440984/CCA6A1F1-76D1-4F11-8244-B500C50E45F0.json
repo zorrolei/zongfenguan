@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCA6A1F1-76D1-4F11-8244-B500C50E45F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F68985A-C295-434E-AE24-9E1E03DE7D67",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D57E46E5-EBFB-43BB-B710-C37BFA911A13",
+    "height": 22,
+    "width": 77,
+    "x": 407,
+    "y": 1404
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC802B6F-F664-4BBF-9BE7-6375F9A36437",
+      "overrideName": "2D5BBDE2-823D-4D03-B2E7-D422BFA44FFA_stringValue",
+      "value": "常用服务"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7572FB5C-9C8A-4E9B-8C50-2BFC8E7F620B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AD361C9C-A29A-4132-96A1-10B503FF2814",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E78D6D6-ABC3-4875-84E8-B15BEE7E515A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA271DDA-FC83-4A0D-8898-5F3431F227D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "356EFBC5-ADEA-47A5-A754-A600A23BD5BD",
+    "height": 91,
+    "width": 401,
+    "x": 1112,
+    "y": 467
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list1 copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA4203D3-AD65-48FC-B057-9F3DA3645038",
+      "overrideName": "DBD27CE3-769F-4E32-8C55-3028AE0833AF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/883c031af06ea65ed087a6750a6402dcc06fd43a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7082A9DD-F6EA-463C-9BB8-80FDF27BD187",
+      "overrideName": "BD010835-55B7-4C8E-AB13-7A2C039F99FA_stringValue",
+      "value": "文化馆开展纪念中国共产党成立95周年群众文艺汇演"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E80F5992-F7AC-41A4-B77E-F3E8B588FA85",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F97106F3-9BE2-4865-9F26-FEE69D3A71E4",
+  "verticalSpacing": 0
+}

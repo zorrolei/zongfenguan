@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E307D523-D819-4547-BE4E-0041FFE8B54D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB92617B-8D63-4D01-8782-4A0F1BC6B521",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2676DB0F-8BB5-4DEA-B884-E55EF808C5EF",
+    "height": 109,
+    "width": 727,
+    "x": 419,
+    "y": 1602
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "评论2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E4290D8-5D34-43D8-BEA4-11CAB62CD6CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2D4BC6F-E492-42FC-AEFF-C41CBAC17E76",
+  "verticalSpacing": 0
+}

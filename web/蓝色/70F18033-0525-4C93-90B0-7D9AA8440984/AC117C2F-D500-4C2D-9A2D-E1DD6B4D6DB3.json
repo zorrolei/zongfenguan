@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC117C2F-D500-4C2D-9A2D-E1DD6B4D6DB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1ABDC4CD-99B9-46F6-8003-C0E4225042A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4944F7C-85D6-4983-B475-A1008FE75667",
+    "height": 181,
+    "width": 262,
+    "x": 1269,
+    "y": 1645
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group 11 Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CC22517-CEDA-44DF-B74F-B8F26D653663",
+      "overrideName": "DAF2CD93-BD37-406B-A7CE-CB4FCBC594BB_stringValue",
+      "value": "刘楼行政村"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF8CD130-E5C2-45C4-9AB1-B2BBD8EC3D16",
+      "overrideName": "FA64DB01-B471-4B2D-95D1-3F34B4751A7D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7053dcd1957a28ecc6bd05162d2599d1bb7d98ae.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B953DDE7-1880-4991-BBF0-74BC0A28FE5E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8D2A0359-C144-431E-B2E1-E9AD006D32FC",
+  "verticalSpacing": 0
+}

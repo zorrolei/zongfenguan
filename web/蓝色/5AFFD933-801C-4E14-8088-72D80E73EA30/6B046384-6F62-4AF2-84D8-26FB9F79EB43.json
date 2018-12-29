@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B046384-6F62-4AF2-84D8-26FB9F79EB43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA7B0661-2105-4026-829D-6D9DD9C7BB2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A51A6FEF-19F8-4476-A89F-1AEB93BA5230",
+    "height": 50,
+    "width": 251,
+    "x": 364,
+    "y": 381
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "31CE97D9-930E-4243-892C-0E9082FFBA70_stringValue",
+      "value": "文艺演出"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DAD0E2D9-B76C-4610-8D08-1F1AE210AC5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B27005A0-BF10-434C-9EA9-7466A81170A1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A10A65F5-1683-4F80-ACEA-2D6E2196C453",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C422E877-29EC-4140-B5F7-5C2A8EC5BC6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D174E4BA-047B-40B6-8858-05E5921B56FD",
+    "height": 20,
+    "width": 400,
+    "x": 1112,
+    "y": 1476
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list3 copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9984BE12-3482-4F39-976C-B9551B9CFF9B_stringValue",
+      "value": "贾桂英老师演唱《杨门女将·五世请缨》选段"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "070BEBB6-B034-4E2B-AB30-E7DB42BB8272",
+      "overrideName": "20E364F4-A254-4B69-94A5-0C6C53A3BCBD_stringValue",
+      "value": "名家名段 | "
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9B48E72-BAA7-4B4E-A16E-2F2A00013FC6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1900169F-1987-40A2-AE14-3563F8323B01",
+  "verticalSpacing": 0
+}

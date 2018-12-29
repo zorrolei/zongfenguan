@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08AF2FCE-02B7-44B9-AC37-FE3EC1EC4B0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F9B745B-1D01-4F48-9998-F019F5191B73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "546E1327-F625-4FF3-A8F7-306D300784C2",
+    "height": 360,
+    "width": 697,
+    "x": 375,
+    "y": 223
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "96A80C8B-4C4B-444A-BEF0-F4F0A74F8F82"
+    },
+    {
+      "class": "bitmap",
+      "id": "016D8E54-FCDF-46DC-B2C1-3CDE6636AA05"
+    },
+    {
+      "class": "group",
+      "id": "9BDB7C3E-C618-41C7-9226-D05B7B16300C"
+    }
+  ],
+  "name": "纪念改革开放40周年党建宣传展板",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3EB6319-C3EA-4367-930C-F5439FACF7BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
